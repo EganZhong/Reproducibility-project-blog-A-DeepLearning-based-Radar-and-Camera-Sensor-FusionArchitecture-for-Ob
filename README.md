@@ -3,6 +3,8 @@ This repository provides the codes and the blog for TUD deep learning reproducib
 
 Blog: 
 
+  Reproduced_Paper.ipynb
+
 Codes:
 
   Section5_data.ipynb provides the experimental results.
